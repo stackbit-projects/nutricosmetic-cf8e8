@@ -4,3 +4,4 @@ export default function attribute(name, value, condition) {
     }
     return condition ? { [name]: value } : null;
 };
+

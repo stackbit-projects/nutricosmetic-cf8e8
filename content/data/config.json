@@ -1,13 +1,23 @@
 {
-    "title": "Stackbit Starter Theme",
+    "title": "nutricosmetic.top",
     "path_prefix": "/",
     "header": {
-        "title": "Starter",
+        "title": "Nutricosmetic",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Inicio",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Omnilife",
+                "url": "/omnilife",
+                "style": "link"
+            },
+            {
+                "label": "Seytu",
+                "url": "/seytu",
                 "style": "link"
             },
             {
@@ -21,16 +31,12 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/nutricosmetictop.png"
     },
     "footer": {
         "has_nav": true,
@@ -67,6 +73,6 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Nutricosmetic. All rights reserved."
     }
 }

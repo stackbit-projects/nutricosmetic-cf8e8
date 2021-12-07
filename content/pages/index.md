@@ -2,20 +2,19 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Incrementa tus oportunidades económicas.
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Inicia tu negocio ahora y mejora tu calidad de vida. Te acompañaremos paso a paso, para mostrarte la gran variedad de opciones para crecer que tenemos para ti.
     actions:
-      - label: Learn More
+      - label: Afiliarme
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Comprar
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
-    image_alt: Hero placeholder image
+    image: images/home.png
+    image_alt: Productos de omnilife y seytu
     image_position: right
     has_background: true
     background:
@@ -25,29 +24,25 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: Únete y llega tan alto como tú quieras
     features:
-      - title: Feature 1
+      - title: Omnilife
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Aquí encontrarás productos que nutrirán tu cuerpo, detonarán la expresión de tu personalidad y te inspirarán a transformar tu entorno.
         align: left
-        image: images/feature.svg
-        image_alt: Feature 1 placeholder image
+        image: images/products-omnilife.png
+        image_alt: productos omnilife
         image_position: right
         actions:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 2
+      - title: Seytu
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Al usar y compartir los productos podrás expresar tu individualidad y obtener resultados visibles en tu piel, cabellos y estilo de vida.
         align: left
-        image: images/feature.svg
-        image_alt: Feature 2 placeholder image
+        image: images/products-seytu.png
+        image_alt: Productos seytu
         image_position: left
         actions:
           - label: Learn More
