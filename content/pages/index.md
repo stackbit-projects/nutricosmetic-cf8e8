@@ -48,14 +48,12 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: Negocio internacional
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          ¿Tienes un sueño? Queremos ser el puente para que lo alcances.
         align: left
-        image: images/feature.svg
-        image_alt: Feature 3 placeholder image
+        image: images/negocio-internacional.jpg
+        image_alt: Negocio internacional omnilife y seytu
         image_position: right
         actions:
           - label: Learn More
@@ -66,41 +64,40 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: This Is A CTA
+    title: ÚNETE A MI RED DE EMPRENDEDORES
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Conquista tu independencia financiera
     actions:
-      - label: Learn More
+      - label: QUIERO UNIRME
         url: /features
         style: primary
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
-  description: The preview of the Starter theme
+  title: Nutricosmetic | Ten un negocio internacional y genera libertad financiera
+  description: Una oportunidad de mejorar tu calidad de vida y obtener nuevos ingresos.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: Nutricosmetic | Ten un negocio internacional y genera libertad financiera
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: Una oportunidad de mejorar tu calidad de vida y obtener nuevos ingresos.
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: images/nutricosmetic-preview.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Starter Theme
+      value: Nutricosmetic | Ten un negocio internacional y genera libertad financiera
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Una oportunidad de mejorar tu calidad de vida y obtener nuevos ingresos.
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: images/nutricosmetic-preview.jpg
       relativeUrl: true
 layout: advanced
 ---

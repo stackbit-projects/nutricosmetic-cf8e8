@@ -1,5 +1,5 @@
 {
-    "title": "nutricosmetic.top",
+    "title": "Nutricosmetic",
     "path_prefix": "/",
     "header": {
         "title": "Nutricosmetic",
@@ -12,27 +12,27 @@
             },
             {
                 "label": "Omnilife",
-                "url": "/omnilife",
+                "url": "/",
                 "style": "link"
             },
             {
                 "label": "Seytu",
-                "url": "/seytu",
+                "url": "/",
                 "style": "link"
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "/",
                 "style": "link"
             },
             {
                 "label": "About",
-                "url": "/about",
+                "url": "/",
                 "style": "link"
             },
             {
-                "label": "Contact Us",
-                "url": "/contact",
+                "label": "Contáctanos",
+                "url": "https://wa.me/message/7IQAILKCXIONL1",
                 "style": "primary"
             }
         ],
@@ -43,7 +43,7 @@
         "nav_links": [
             {
                 "label": "Contact Us",
-                "url": "/contact",
+                "url": "https://wa.me/message/7IQAILKCXIONL1",
                 "style": "link"
             },
             {
@@ -61,14 +61,20 @@
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
+                "label": "WhatsApp",
+                "url": "https://wa.me/message/7IQAILKCXIONL1",
                 "style": "link",
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Facebook",
+                "url": "https://facebook.com/",
+                "style": "link",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.Instagram.com/",
                 "style": "link",
                 "new_window": true
             }
