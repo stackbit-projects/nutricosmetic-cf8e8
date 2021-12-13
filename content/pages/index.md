@@ -34,7 +34,7 @@ sections:
         image_alt: productos omnilife
         image_position: right
         actions:
-          - label: Learn More
+          - label: Leer más
             url: /features
             style: secondary
       - title: Seytu
@@ -45,28 +45,28 @@ sections:
         image_alt: Productos seytu
         image_position: left
         actions:
-          - label: Learn More
+          - label: Leer más
             url: /features
             style: secondary
       - title: Negocio internacional
         content: >-
-          ¿Tienes un sueño? Queremos ser el puente para que lo alcances.
+          ¿Tienes un sueño? Queremos ser el puente para que lo alcances. Vende los mejores productos de nutrición y de cosmética en más de veinte países.
         align: left
         image: images/negocio-internacional.jpg
         image_alt: Negocio internacional omnilife y seytu
         image_position: right
         actions:
-          - label: Learn More
+          - label: Leer más
             url: /features
             style: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Blog
     show_recent: true
     recent_count: 3
   - type: cta_section
     title: ÚNETE A MI RED DE EMPRENDEDORES
     subtitle: >-
-      Conquista tu independencia financiera
+      !Conquista tu independencia financiera! Recibe la mejor asesoría personalizada para compras y afiliaciones.
     actions:
       - label: QUIERO UNIRME
         url: /features
