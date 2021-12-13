@@ -7,10 +7,10 @@ sections:
       Inicia tu negocio ahora y mejora tu calidad de vida. Te acompañaremos paso a paso, para mostrarte la gran variedad de opciones para crecer que tenemos para ti.
     actions:
       - label: Afiliarme
-        url: /features
+        url: https://wa.me/message/7IQAILKCXIONL1
         style: primary
       - label: Comprar
-        url: /contact
+        url: https://wa.me/message/7IQAILKCXIONL1
         style: secondary
     align: left
     image: images/home.png
@@ -35,7 +35,7 @@ sections:
         image_position: right
         actions:
           - label: Leer más
-            url: /features
+            url: https://wa.me/message/7IQAILKCXIONL1
             style: secondary
       - title: Seytu
         content: >-
@@ -46,7 +46,7 @@ sections:
         image_position: left
         actions:
           - label: Leer más
-            url: /features
+            url: https://wa.me/message/7IQAILKCXIONL1
             style: secondary
       - title: Negocio internacional
         content: >-
@@ -57,19 +57,16 @@ sections:
         image_position: right
         actions:
           - label: Leer más
-            url: /features
+            url: https://wa.me/message/7IQAILKCXIONL1
             style: secondary
-  - type: blog_feed_section
-    title: Blog
-    show_recent: true
-    recent_count: 3
+
   - type: cta_section
     title: ÚNETE A MI RED DE EMPRENDEDORES
     subtitle: >-
       !Conquista tu independencia financiera! Recibe la mejor asesoría personalizada para compras y afiliaciones.
     actions:
       - label: QUIERO UNIRME
-        url: /features
+        url: https://wa.me/message/7IQAILKCXIONL1
         style: primary
     has_background: true
     background_color: gray

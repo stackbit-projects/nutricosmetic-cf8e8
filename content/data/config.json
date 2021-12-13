@@ -11,26 +11,6 @@
                 "style": "link"
             },
             {
-                "label": "Omnilife",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Seytu",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/",
-                "style": "link"
-            },
-            {
                 "label": "Contáctanos",
                 "url": "https://wa.me/message/7IQAILKCXIONL1",
                 "style": "primary"
