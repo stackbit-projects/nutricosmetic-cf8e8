@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Incrementa tus oportunidades económicas.
     subtitle: >-
-      Inicia tu negocio ahora y mejora tu calidad de vida. Te acompañaremos paso a paso, para mostrarte la gran variedad de opciones para crecer que tenemos para ti.
+      Inicia tu negocio ahora y mejora tu calidad de vida. Te acompañaremos paso a paso, para mostrarte la gran variedad de opciones que tenemos para ti.
     actions:
       - label: Afiliarme
         url: https://wa.me/message/7IQAILKCXIONL1
