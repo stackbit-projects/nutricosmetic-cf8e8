@@ -11,6 +11,11 @@
                 "style": "link"
             },
             {
+                "label": "Omnilife",
+                "url": "omnilife",
+                "style": "link"
+            },
+            {
                 "label": "Contáctanos",
                 "url": "https://wa.me/message/7IQAILKCXIONL1",
                 "style": "primary"
@@ -22,18 +27,24 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contact Us",
-                "url": "https://wa.me/message/7IQAILKCXIONL1",
+                "label": "🇺🇸 Llámanos",
+                "url": "tel:2136089702",
                 "style": "link"
             },
             {
-                "label": "Privacy and Terms",
-                "url": "/terms",
+                "label": "🇪🇨 Llámanos",
+                "url": "tel:593983487291",
                 "style": "link"
             }
         ],
         "has_social": true,
         "social_links": [
+            {
+                "label": "E-mail",
+                "url": "mailto:info@nutricosmetic.top",
+                "style": "link",
+                "new_window": true
+            },
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/",
