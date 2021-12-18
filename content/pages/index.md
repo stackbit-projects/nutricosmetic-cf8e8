@@ -35,7 +35,7 @@ sections:
         image_position: right
         actions:
           - label: Leer más
-            url: https://wa.me/message/7IQAILKCXIONL1
+            url: /omnilife
             style: secondary
       - title: Seytu
         content: >-
