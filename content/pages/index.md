@@ -46,7 +46,7 @@ sections:
         image_position: left
         actions:
           - label: Leer más
-            url: https://wa.me/message/7IQAILKCXIONL1
+            url: /seytu
             style: secondary
       - title: Negocio internacional
         content: >-
@@ -57,9 +57,8 @@ sections:
         image_position: right
         actions:
           - label: Leer más
-            url: https://wa.me/message/7IQAILKCXIONL1
+            url: /membresia
             style: secondary
-
   - type: cta_section
     title: ÚNETE A MI RED DE EMPRENDEDORES
     subtitle: >-
@@ -98,3 +97,6 @@ seo:
       relativeUrl: true
 layout: advanced
 ---
+<p align="center">
+  <a href="https://app.stackbit.com/create?utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes"><img alt="Create with Stackbit" src="https://assets.stackbit.com/badge/create-with-stackbit.svg"/></a>
+</p>

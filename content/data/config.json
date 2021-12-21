@@ -21,6 +21,11 @@
                 "style": "link"
             },
             {
+                "label": "Membresía",
+                "url": "/membresia",
+                "style": "link"
+            },
+            {
                 "label": "Contáctanos",
                 "url": "https://wa.me/message/7IQAILKCXIONL1",
                 "style": "primary"
