@@ -207,8 +207,8 @@ layout: page
   ¡Deseas mas información! ¡llámanos!
 </p>
 <p align="center">
-  <a href="tel:593998326778"><img alt="Create with Stackbit" src="https://compra.omnilife.com/images/flag_ecuador.svg?crc=110245308"/></a>
+  <a href="tel:593998326778"><img alt="Nuestro contacto en Ecuador" src="https://compra.omnilife.com/images/flag_ecuador.svg?crc=110245308"/></a>
 </p>
 <p align="center">
-  <a href="tel:12136089702"><img alt="Create with Stackbit" src="https://compra.omnilife.com/images/flag_usa.svg?crc=110245308"/></a>
+  <a href="tel:12136089702"><img alt="Nuestro contacto en USA" src="https://compra.omnilife.com/images/flag_usa.svg?crc=110245308"/></a>
 </p>
